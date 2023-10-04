@@ -3,4 +3,10 @@
     <string name="Nama">Raihan Aria Putra B</string>
     <string name="mobil">Mercedes-Benz</string>
     <string name="pengertian">Mercedes adalah sebuah merek dari Daimler-Motoren-Gesellschaft.</string>
+    <string name="Motor">Select your motorcyle</string>
+    <string name="LoginForm">Enter Your Name</string>
+    <string name="NoHP">Enter Your Phone Number</string>
+    <string name="Alamat">Enter Your Address</string>
+    <string name="loginic">Login</string>
+
 </resources>
